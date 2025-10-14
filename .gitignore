@@ -1,0 +1,111 @@
+# =====================================
+# Unity / .NET / Visual Studio .gitignore
+# =====================================
+
+# === Unity generated folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+UserSettings/
+
+# === Asset bundles ===
+*.unitypackage
+
+# === Crash and temporary files ===
+sysinfo.txt
+*.stacktrace
+
+# === Visual Studio / Rider ===
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# === Unity cache ===
+*.unityproj
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.db
+*.db.meta
+
+# === Builds ===
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.ipa
+*.exe
+*.app
+*.msi
+*.zip
+
+# === OS generated ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+*.tmp
+*.bak
+
+# === Package Manager ===
+/Packages/com.unity.package-manager-ui/
+
+# === Auto-generated meta files ===
+/Assets/AssetStoreTools*
+
+# === Addressables ===
+/Library/com.unity.addressables/
+*.addressables
+*.bin
+*.hash
+*.json
+
+# === Rider project files ===
+*.sln.iml
+.idea/
+
+# === JetBrains Rider / Cache ===
+/.idea/
+/*.iml
+
+# === Build artifacts ===
+/Build/
+/Builds/
+/ExportedObj/
+/Assets/StreamingAssets/aa/
+
+# === Collaborate / Plastic SCM ===
+/.plastic/
+/collabignore.txt
+
+# === Local settings ===
+/ProjectSettings/EditorBuildSettings.asset
+/ProjectSettings/EditorSettings.asset
+/ProjectSettings/GraphicsSettings.asset
+/ProjectSettings/ProjectSettings.asset
+/ProjectSettings/QualitySettings.asset
+/ProjectSettings/TagManager.asset
