@@ -8,10 +8,20 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
-[Rr]ecordings/
 UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
 
 # === Asset bundles ===
 *.unitypackage
