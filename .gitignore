@@ -22,6 +22,9 @@
 *.opendb
 *.VC.db
 
+
+!*.meta
+
 # === Asset bundles ===
 *.unitypackage
 
